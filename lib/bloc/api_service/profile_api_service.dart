@@ -7,7 +7,6 @@ class ProfileApiBloc extends Bloc<dynamic, ProfileApiService> {
 
   @override
   Stream<ProfileApiService> mapEventToState(event) {
-    // TODO: implement mapEventToState
     return null;
   }
 }
